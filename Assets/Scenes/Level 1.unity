@@ -1133,7 +1133,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b8fd3f035af824945a28aa58357fe239, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeToWait: 3
+  timeToWait: 1
 --- !u!54 &1640825950
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1167,7 +1167,7 @@ GameObject:
   - component: {fileID: 1738086701}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
